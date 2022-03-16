@@ -1,0 +1,110 @@
+[
+    {   
+        "id": 1,
+        "image": "assets/img/bg-img/t1.png",
+        "name": "Kizza lawrence",
+        "designation": "@kizzalwarence",
+        "ratingOne": "bi-star-fill",
+        "ratingTwo": "bi-star-fill",
+        "ratingThree": "bi-star-fill",
+        "ratingFour": "bi-star-fill",
+        "ratingFive": "bi-star-fill",
+        "testimonial": "It so great and artistic, am looking at it in 10yrs from now and pray my kids to be part of the inspired, the impact is all great"
+    },
+    {
+        "id": 2,
+        "image": "assets/img/bg-img/t2.png",
+        "name": "Nuwahereza Allan Anix",
+        "designation": "@nuwaherezaanix",
+        "ratingOne": "bi-star-fill",
+        "ratingTwo": "bi-star-fill",
+        "ratingThree": "bi-star-fill",
+        "ratingFour": "bi-star-fill",
+        "ratingFive": "bi-star-half",
+        "testimonial": "Your indeed an epitome of remarkable resilience to womanhood"
+    },
+    {   
+        "id": 3,
+        "image": "assets/img/bg-img/t3.png",
+        "name": "Aisha Nassaazi",
+        "designation": "@aishanasaazi",
+        "ratingOne": "bi-star-fill",
+        "ratingTwo": "bi-star-fill",
+        "ratingThree": "bi-star-fill",
+        "ratingFour": "bi-star-fill",
+        "ratingFive": "bi-star",
+        "testimonial": "I have come to witness how truly important education and personal research is to all of us in our feilds of study."
+    },
+    {   
+        "id": 4,
+        "image": "assets/img/bg-img/t1.png",
+        "name": "Patience Arinaitwe",
+        "designation": "@patience",
+        "ratingOne": "bi-star-fill",
+        "ratingTwo": "bi-star-fill",
+        "ratingThree": "bi-star-fill",
+        "ratingFour": "bi-star-fill",
+        "ratingFive": "bi-star-fill",
+        "testimonial": "Amazing work you have done Dr. Amanda. Iam inspired by how much you have achieved in a small space"
+    },
+    {   
+        "id": 5,
+        "image": "assets/img/bg-img/t2.png",
+        "name": "Bashungire enock",
+        "designation": "@hasnain_r",
+        "ratingOne": "bi-star-fill",
+        "ratingTwo": "bi-star-fill",
+        "ratingThree": "bi-star-fill",
+        "ratingFour": "bi-star-fill",
+        "ratingFive": "bi-star-half",
+        "testimonial": "This reminds us that opportunities are around us and it's about us to take control,, thanks Dr Amanda"
+    },
+    {   
+        "id": 6,
+        "image": "assets/img/bg-img/t3.png",
+        "name": "Ayan Doe",
+        "designation": "@ayan_doe",
+        "ratingOne": "bi-star-fill",
+        "ratingTwo": "bi-star-fill",
+        "ratingThree": "bi-star-fill",
+        "ratingFour": "bi-star-fill",
+        "ratingFive": "bi-star",
+        "testimonial": "I have learned that drawing inform of illustration is an effective tool to demonstrate and put across a picture of what is writen, preached, or spoken of"
+    },
+    {   
+        "id": 7,
+        "image": "assets/img/bg-img/t1.png",
+        "name": "Philip Peter Kairu",
+        "designation": "@peter",
+        "ratingOne": "bi-star-fill",
+        "ratingTwo": "bi-star-fill",
+        "ratingThree": "bi-star-fill",
+        "ratingFour": "bi-star-fill",
+        "ratingFive": "bi-star-fill",
+        "testimonial": "You've saved our business! Thanks guys, keep up the good work!"
+    },
+    {   
+        "id": 8,
+        "image": "assets/img/bg-img/t2.png",
+        "name": "Awai Billy Brian",
+        "designation": "@awaibilly",
+        "ratingOne": "bi-star-fill",
+        "ratingTwo": "bi-star-fill",
+        "ratingThree": "bi-star-fill",
+        "ratingFour": "bi-star-fill",
+        "ratingFive": "bi-star-half",
+        "testimonial": "Visual storytelling is a pervasive and powerful way to share ideas, educate, and communicate."
+    },
+    {   
+        "id": 9,
+        "image": "assets/img/bg-img/t3.png",
+        "name": "Martin Kaweesa",
+        "designation": "@martin_kaweesa",
+        "ratingOne": "bi-star-fill",
+        "ratingTwo": "bi-star-fill",
+        "ratingThree": "bi-star-fill",
+        "ratingFour": "bi-star-fill",
+        "ratingFive": "bi-star",
+        "testimonial": "Such honors given to Africa from its golden nature gift is a wonder.Africa is Gold!"
+    }
+]

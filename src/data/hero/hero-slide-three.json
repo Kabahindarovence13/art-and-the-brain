@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "catagory": ["Support a surgery", "Give life", "Restore hope"],
+        "title": "Support to give their lives a second chance.",
+        "subtitle": "Kindly support by sponsoring the surgery for one or more vulnerable children with Hydrocephalus, brain tumor and spinabifida at the CURE Children's Hospital",
+        "btnGroup": [
+            {
+                "btnColor": "btn-warning",
+                "btnUrl": "/portfolio-full-width",
+                "btnText": "See Paintings"
+            },
+            {
+                "btnColor": "btn-success",
+                "btnUrl": "https://cure.org/hospitals/uganda/",
+                "btnText": "About CURE"
+            }
+        ],
+        "image": "assets/img/illustrator/2.png",
+        "backgroundImage": "assets/img/bg-img/7.jpg"
+    }
+]

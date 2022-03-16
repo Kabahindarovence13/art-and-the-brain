@@ -1,0 +1,205 @@
+[
+    {
+        "id": 1,
+        "image": "assets/img/bg-img/p8.jpg",
+        "largeImage": "assets/img/bg-img/p19.jpg",
+        "title": "Another Time Another Place",
+        "shortDesc": "This is one of the paintings regarded as the most expensive masterpieces in Africa as well as in my collection.",
+        "firstIcon": "bi-heart",
+        "secondIcon": "bi-link-45deg",
+        "filterKey": "design",
+        "projectInfo": [
+            {   
+                "id": 1,
+                "title": "Period:",
+                "desc": "2002–2017"
+            },
+            {
+                "id": 2,
+                "title": "Artist:",
+                "desc": "Amanda Tumusiime"
+            },
+            {
+                "id": 3,
+                "title": "Auction Date",
+                "desc": "31st March, 2022"
+                
+            }
+        ],
+        "inDetails": [
+            {
+                "title": "Details",
+                "desc": "It has been written about extensively in Africa and Europe. This painting took me 13 years to complete. The initial journey started in the western part of Uganda in 2022. Before I completed it, I left for SouthAfrica to start second masters degree program at the university of Witwatersrand and a doctorate in 2005, which I completed in 2012. I made it a poitn that whenever I came back to Uganda, I would continue with the project. The painting became one that represents different places and different times, thus making it a collage of numerous places and times."
+            },
+            {
+                "title": "continued",
+                "desc": "The work was completed after my return from the USA after my Fullbright post-doctorate in 2016. Therefore, the painting has brush strokes that bring back memories of so many places i went to between 2003 and 2017, the time I completed it. The work transcends time and places and reasonates with everyone's ecperience, and its magical. It has previous been used to fundraise for girls' education in my home village in Kabale, Uganda. However, the aspiration today is to tap into the eco from Another Time Another Place to support the cause for brain surgery for children"
+            }
+        ]
+    },
+    {   
+        "id": 2,
+        "image": "assets/img/bg-img/p11.jpg",
+        "largeImage": "assets/img/bg-img/p20.jpg",
+        "title": "Serenity Scape",
+        "shortDesc": "Serenity Scape (1 oil on canvas, 15.24 x 20.32 cm 2015-2016) is a series of artworks done from aerial and land perspectives, especially in places that are very flat in different parts of the world that I travelled to",
+        "firstIcon": "bi-heart",
+        "secondIcon": "bi-link-45deg",
+        "filterKey": "apps",
+        "projectInfo": [
+            {   
+                "id": 1,
+                "title": "Period:",
+                "desc": "2015–2016"
+            },
+            {
+                "id": 2,
+                "title": "Artist:",
+                "desc": "Amanda Tumusiime"
+            },
+            {
+                "id": 3,
+               "title": "Auction Date",
+                "desc": "31st March, 2022"
+            }
+        ],
+        "inDetails": [
+            {
+                "title": "Details:",
+                "desc": "The title resonates with the mood and the feeling the space invokes. On one hand, Serenity Scape recreates the childhood memories of being free in an unfettered space, or running without being stopped, hoping to reach the horizon line. Like John Lubbock said: ‘Earth and sky, woods and fields, lakes and rivers, the mountains and the sea are excellent school masters and teaches most of us more than what we could learn from Books.’Serenity Scape rekindles selflove, individual freedom and love for humanity"
+            }
+        ]
+    },
+    {   
+        "id": 3,
+        "image": "assets/img/bg-img/p3.jpg",
+        "largeImage": "assets/img/bg-img/p21.jpg",
+        "title": "Speaking Mountains, 2015–2016",
+        "shortDesc": "Speaking Mountains is a print from one of the series of oil on canvas paintings created in 2015–2016.Speaking Mountains was inspired by different mountains in Africa and Europe.",
+        "firstIcon": "bi-heart",
+        "secondIcon": "bi-link-45deg",
+        "filterKey": "apps",
+        "projectInfo": [
+            {   
+                "id": 1,
+                "title": "Period:",
+                "desc": "2015–2016"
+            },
+            {
+                "id": 2,
+              "title": "Artist:",
+                "desc": "Amanda Tumusiime"
+            },
+            {
+                "id": 3,
+              "title": "Auction Date",
+                "desc": "31st March, 2022"
+            }
+        ],
+        "inDetails": [
+            {
+                "title": "Details:",
+                "desc": "While I was in the USA I visited the Rocky Mountains, the Great Smoky Mountains and the Blue Ridge Mountains, among others. Since I was born in the mountains in western Uganda,I find that mountains speak of beauty and the splendour of endurance. They have always inspired me in the way they have endured harsh weather for aeons but have remained tall andmajestic. The mountains speak volumes about endurance, encouragement and beauty, to different human audiences. Some people believe that your willpower teaches youthat every mountain is an opportunity to touch the sky."
+            }
+        ]
+    },
+    {   
+        "id": 4,
+        "image": "assets/img/bg-img/p4.jpg",
+        "largeImage": "assets/img/bg-img/p22.jpg",
+        "title": "Falling in Love with Fall",
+        "shortDesc": "Falling in Love with Fall is a print from an oil on canvas painting done in 2015 – 2016. It is a series of paintings inspired by the fall season and was exhibited in the A Million Dollar Paintings for America show in 2016.",
+        "firstIcon": "bi-heart",
+        "secondIcon": "bi-link-45deg",
+        "filterKey": "design",
+        "projectInfo": [
+            {   
+                "id": 1,
+                 "title": "Period:",
+                "desc": "2016-2016"
+            },
+            {
+                "id": 2,
+              "title": "Artist:",
+                "desc": "Amanda Tumusiime"
+            },
+            {
+                "id": 3,
+                "title": "Auction Date",
+                "desc": "31st March, 2022"
+            }
+        ],
+        "inDetails": [
+            {
+                "title": "Details:",
+                "desc": "My never-ending search for knowledge took me to many places in the world and makes me feel contented now. It was magical for me to see plant life change into rainbow-like colours and thereafter shed off. The shedding off seemed to be unpleasant but, on the other hand, it seemed to prepare the plant to withstand the tough times that come with another season. It was during this time that I started to critically compare this phenomenon with our being here on earth. It was splendidly rejuvenating and worthwhile to experience different seasons."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "image": "assets/img/bg-img/p5.jpg",
+        "largeImage": "assets/img/bg-img/p23.jpg",
+        "title": "City Sunset/Sunrise",
+        "shortDesc": "I have been consistently fascinated by the blue and golden sunsets/sunrises over the years.",
+        "firstIcon": "bi-heart",
+        "secondIcon": "bi-link-45deg",
+        "filterKey": "marketing",
+        "projectInfo": [
+            {   
+                "id": 1,
+                   "title": "Period:",
+                "desc": "2002-2016"
+            },
+            {
+                "id": 2,
+              "title": "Artist:",
+                "desc": "Amanda Tumusiime"
+            },
+            {
+                "id": 3,
+                   "title": "Auction Date",
+                "desc": "31st March, 2022"
+            }
+        ],
+        "inDetails": [
+            {
+                "title": "Details:",
+                "desc": "There is a belief that sunset is the start of something beautiful during the day while sunset is the start of something beautiful in the night. Others say that there are blessings in sunrises and sunsets. Sunrise may hold more promise while sunset holds more peace, and all these are completely free for us to envision, dream of and hold. It is a magical feeling and irresistibly beautiful and is often perceived as poetic and idealised. Sunrise or sunset against multi-coloured layers of a city hills and mountains constitute spectacular forms and pinnacles, and we must experience them in our lives. After all, life is very sweet and too short for one to give a lot of leeway to be stress."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "image": "assets/img/bg-img/p12.jpg",
+        "largeImage": "assets/img/bg-img/p24.jpg",
+        "title": "Hard Ride",
+        "shortDesc": "Hard Ride is one of the masterpieces I did for the Hidden Treasures in 2005 exhibition in Uganda.",
+        "firstIcon": "bi-heart",
+        "secondIcon": "bi-link-45deg",
+        "filterKey": "marketing",
+        "projectInfo": [
+            {   
+                "id": 1,
+                    "title": "Period:",
+                "desc": "2004-2016"
+            },
+            {
+                "id": 2,
+                 "title": "Artist:",
+                "desc": "Amanda Tumusiime"
+            },
+            {
+                "id": 3,
+                   "title": "Auction Date",
+                "desc": "31st March, 2022"
+            }
+        ],
+        "inDetails": [
+            {
+                "title": "Details:",
+                "desc": "The work resonates with what most of us experienced as we were growing up. And this is what I wrote about it in my catalogue and the same story was written by Ida Bergstron in African Woman magazine 2005. It was talking about being on your own, making choices, finding your career path, getting an education, and finding your talent and dreams. As a youth, your ambition revolves about leaving your family behind and trying to seek out the right direction for yourself. The background is very misty because life is exceedingly unclear. The books at the back symbolise education, and the helmet on the head is protection. The girl has tied her wrap tightly around her waist for support. The bicycle represents something modern, and it provides mobility. Part of the challenge is that the road is not clear. It a hard ride but you have to strive and find your way out"
+            }
+        ]
+    }
+]
