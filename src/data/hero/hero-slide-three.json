@@ -7,7 +7,7 @@
         "btnGroup": [
             {
                 "btnColor": "btn-warning",
-                "btnUrl": "/portfolio-full-width",
+                "btnUrl": "/portfolio",
                 "btnText": "See Paintings"
             },
             {

@@ -3,15 +3,15 @@ import ScrollToTop from "react-scroll-to-top";
 
 // Home Page
 import DemoPage from './pages/Index';
-import CreativeAgency from './pages/CreativeAgency';
+// import CreativeAgency from './pages/CreativeAgency';
 import BusinessStudio from './pages/BusinessStudio';
-import SaasLanding from './pages/SaasLanding';
-import SeoBusiness from './pages/SeoBusiness';
+import Home from './pages/Home';
+// import SeoBusiness from './pages/SeoBusiness';
 
 // Portfolio Page
 import PortfolioStandard from "./pages/PortfolioStandard";
 import PortfolioCreative from "./pages/PortfolioCreative";
-import PortfolioFullWidth from "./pages/PortfolioFullWidth";
+import Portfolio from "./pages/Portfolio";
 import PortfolioDetails from "./pages/PortfolioDetails";
 import PortfolioDetailsTwo from "./pages/PortfolioDetailsTwo";
 
@@ -23,10 +23,10 @@ import Cart from "./pages/Cart";
 import Checkout from "./pages/Checkout";
 
 // Blog Page
-import BlogOne from "./pages/BlogOne";
+import Blog from "./pages/Blog";
 import BlogTwo from "./pages/BlogTwo";
 import BlogThree from "./pages/BlogThree";
-import BlogDetailsOne from "./pages/BlogDetailsOne";
+// import BlogDetailsOne from "./pages/BlogDetailsOne";
 import BlogDetailsTwo from "./pages/BlogDetailsTwo";
 import BlogDetails from "./components/blog/BlogDetails";
 
@@ -58,15 +58,15 @@ export default function App() {
   return (
     <div className="App">
       <Routes>
-        <Route path="/" index element={<DemoPage />} />
-        <Route path="/creative-agency" element={<CreativeAgency />} />
+        <Route path="/" exact element={<Home />} />
+        {/* <Route path="/creative-agency" element={<CreativeAgency />} /> */}
         <Route path="/business-studio" element={<BusinessStudio />} />
-        <Route path="/saas-landing" element={<SaasLanding />} />
-        <Route path="/seo-business" element={<SeoBusiness />} />
+        <Route path="/home" element={<Home />} />
+        {/* <Route path="/seo-business" element={<SeoBusiness />} /> */}
 
         <Route path="/portfolio-standard" element={<PortfolioStandard />} />
         <Route path="/portfolio-creative" element={<PortfolioCreative />} />
-        <Route path="/portfolio-full-width" element={<PortfolioFullWidth />} />
+        <Route path="/portfolio" element={<Portfolio/>} />
         <Route path="/portfolio-details/:portfolioId" element={<PortfolioDetails />} />
         <Route path="/portfolio-details2/:portfolioId" element={<PortfolioDetailsTwo />} />
 
@@ -76,10 +76,10 @@ export default function App() {
         <Route path="/cart" element={<Cart />} />
         <Route path="/checkout" element={<Checkout />} />
 
-        <Route path="/blog-1" element={<BlogOne />} />
+        <Route path="/blog" element={<Blog />} />
         <Route path="/blog-2" element={<BlogTwo />} />
         <Route path="/blog-3" element={<BlogThree />} />
-        <Route path="/blog-details-1" element={<BlogDetailsOne />} />
+        {/* <Route path="/blog-details-1" element={<BlogDetailsOne />} /> */}
         <Route path="/blog-details-2" element={<BlogDetailsTwo />} />
         <Route path="/blog-details/:postId" element={<BlogDetails />} />
 

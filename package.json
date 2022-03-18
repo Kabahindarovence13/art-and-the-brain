@@ -1,7 +1,7 @@
 {
   "name": "saasbox",
   "version": "0.1.0",
-  "homepage": "./",
+  "homepage": "https://amandatumusiime.com",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
@@ -11,7 +11,7 @@
     "node-sass": "^6.0.1",
     "react": "^17.0.2",
     "react-animate-on-scroll": "^2.1.5",
-    "react-bootstrap": "^2.0.1",
+    "react-bootstrap": "^2.2.1",
     "react-countdown": "^2.3.2",
     "react-countup": "^6.0.0",
     "react-dom": "^17.0.2",

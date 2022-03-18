@@ -27,7 +27,7 @@ export default function InnerDemos() {
                     />
                     
                     <SinglePage 
-                        url="/portfolio-full-width"
+                        url="/portfolio"
                         image="assets/img/demo-img/pfw.png"
                         title="Portfolio"
                     />
@@ -75,7 +75,7 @@ export default function InnerDemos() {
                     />
 
                     <SinglePage 
-                        url="/blog-1"
+                        url="/blog"
                         image="assets/img/demo-img/b1.png"
                         title="Blog 1"
                     />

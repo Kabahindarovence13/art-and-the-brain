@@ -29,11 +29,11 @@ export default function Footer(props) {
                             },
                             {
                                 title: "Portfolio", 
-                                url: "/portfolio-full-width"
+                                url: "/portfolio"
                             },
                             {
                                 title: "Blog", 
-                                url: "/blog-1"
+                                url: "/blog"
                             },
                             {
                                 title: "Team", 

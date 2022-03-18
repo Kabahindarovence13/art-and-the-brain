@@ -2,7 +2,7 @@ import BlogOneCard from "./BlogOneCard";
 import BlogOneData from '../../data/blog/bloglist-one.json';
 import SectionHeadingTwo from "../heading/HeadingTwo";
 
-export default function BlogOne() {
+export default function Blog() {
     const BlogOneCards = BlogOneData.slice(0, 3);
     const BlogCardsItems = BlogOneCards.map((item, index) => (
         <BlogOneCard key={index} data={item} />
