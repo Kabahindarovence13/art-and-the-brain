@@ -1,4 +1,4 @@
-import SingleServiceTwo from "./SingleServiceTwo";
+// import SingleServiceTwo from "./SingleServiceTwo";
 
 export default function ServiceTwo() {
     return(

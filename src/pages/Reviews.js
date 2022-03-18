@@ -1,4 +1,4 @@
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 import BreadcrumbOne from "../components/breadcrumb/BreadcrumbOne";
 import Header from "../components/header/Header";
 import ReviewsData from "../data/testimonial/testimonial-one.json";
@@ -40,7 +40,7 @@ export default function Reviews() {
             <SEO title="Reviews" />
 
             <Header 
-                brandLogo="assets/img/core-img/logo-white.png" 
+                brandLogo="assets/img/core-img/logo.png" 
                 headerStyle=""
                 buttonText="Log In" 
                 buttonColor="btn-warning" 

@@ -39,7 +39,7 @@ export default function BlogThree() {
             <SEO title="Blog" />
 
             <Header 
-                brandLogo="assets/img/core-img/logo-white.png" 
+                brandLogo="assets/img/core-img/logo.png" 
                 headerStyle="" 
                 buttonText="Log In" 
                 buttonColor="btn-warning" 

@@ -14,7 +14,7 @@ export default function DemoPage() {
             <SEO title="Welcome" />
 
             <Header 
-                brandLogo="assets/img/core-img/logo-white.png" 
+                brandLogo="assets/img/core-img/logo.png" 
                 headerStyle="" 
                 buttonText="Get Started" 
                 buttonColor="btn-warning" 

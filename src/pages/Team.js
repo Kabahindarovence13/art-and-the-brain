@@ -31,7 +31,7 @@ export default function AllTeamMembers() {
             <SEO title="Team Member" />
 
             <Header 
-                brandLogo="assets/img/core-img/logo-white.png" 
+                brandLogo="assets/img/core-img/logo.png" 
                 headerStyle="" 
                 buttonText="Log In" 
                 buttonColor="btn-warning" 

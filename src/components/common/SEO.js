@@ -6,7 +6,7 @@ export default function SEO(props) {
     return(
         <HelmetProvider>
             <Helmet>
-                <title>{title} | Saasbox - Multipurpose React Template for Saas & Agency</title>
+                <title>{title} |Dr.Amanda Tumusiime </title>
             </Helmet>
         </HelmetProvider>
     )

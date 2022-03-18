@@ -2,7 +2,7 @@ import {Routes, Route, Navigate} from "react-router-dom";
 import ScrollToTop from "react-scroll-to-top";
 
 // Home Page
-import DemoPage from './pages/Index';
+// import DemoPage from './pages/Index';
 // import CreativeAgency from './pages/CreativeAgency';
 import BusinessStudio from './pages/BusinessStudio';
 import Home from './pages/Home';
