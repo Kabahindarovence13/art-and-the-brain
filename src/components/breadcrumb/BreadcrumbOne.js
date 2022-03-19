@@ -1,7 +1,7 @@
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 
 export default function BreadcrumbOne(props) {
-    const {breadcrumbImage, breadcrumbTitle, homePageUrl, homePageText, currentPageText} = props;
+    const {breadcrumbImage, breadcrumbTitle} = props;
 
     return(
         <div className="breadcrumb-wrapper bg-img bg-overlay" style={{backgroundImage: `url(${process.env.PUBLIC_URL}/${breadcrumbImage})`}}>

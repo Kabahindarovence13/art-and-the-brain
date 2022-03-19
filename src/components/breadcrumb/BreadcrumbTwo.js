@@ -1,7 +1,7 @@
-import { Link } from "react-router-dom";
+// import { Link } from "react-router-dom";
 
 export default function BreadcrumbTwo(props) {
-    const {breadcrumbTitle, homePageUrl, homePageText, currentPageText} = props;
+    const {breadcrumbTitle} = props;
 
     return(
         <div className="breadcrumb-wrapper breadcrumb-bg-light">
