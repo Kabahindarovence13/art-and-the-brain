@@ -1,5 +1,5 @@
 import Header from "../components/header/Header";
-// import BreadcrumbTwo from "../components/breadcrumb/BreadcrumbTwo";
+import BreadcrumbTwo from "../components/breadcrumb/BreadcrumbTwo";
 import Divider from "../components/divider/Divider";
 // import FeatureTwo from "../components/features/FeatureTwo";
 import TestimonialOne from "../components/testimonial/TestimonialOne";
