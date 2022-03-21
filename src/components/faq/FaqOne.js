@@ -18,10 +18,10 @@ export default function FAQOne(props) {
                                         How to donate?
                                     </Accordion.Header>
                                       <Accordion.Body>
-                                       Bank A/C Number: 32000000100, A/C Name: Amanda Tumusiime, Bank: Stabnic bank, Branch:Makerere
+                                    You can send in your donations to the phone numbers below all in names of Amanda Tumusiime
                                     </Accordion.Body>
                                     <Accordion.Body>
-                                     Mobile money: 0782 884420 <b>OR</b> 0759 907007 in the names of Amanda Tumusiime
+                                     Mtn: 0782 884420 <b>OR</b> Airtel: 0759 907007
                                     </Accordion.Body>
                                 </Accordion.Item>
                                 
