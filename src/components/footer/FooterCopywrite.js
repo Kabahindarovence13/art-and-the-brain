@@ -1,5 +1,5 @@
 import { Link } from 'react-router-dom';
-import Dropdown from 'react-bootstrap/Dropdown';
+// import Dropdown from 'react-bootstrap/Dropdown';
 
 export default function FooterCopywrite(props) {
     const {footerNavTwo} = props;
@@ -26,23 +26,6 @@ export default function FooterCopywrite(props) {
                     <ul className="mb-0 d-flex flex-wrap justify-content-center list-unstyled">
                         {footerNavItems}
                     </ul>
-                </div>
-
-                {/* Language Dropdown */}
-                <div className="language-dropdown text-center text-lg-end">
-                    <Dropdown drop="up">
-                        <Dropdown.Toggle className="bg-transparent text-dark" id="dropdown-autoclose-true">
-                            Language
-                        </Dropdown.Toggle>
-
-                        <Dropdown.Menu>
-                            <Dropdown.Item href="/"><span className="me-2 flag-icon flag-icon-sa" /> Arabic</Dropdown.Item>
-                            <Dropdown.Item href="/"><span className="me-2 flag-icon flag-icon-bd" /> Bengali</Dropdown.Item>
-                            <Dropdown.Item href="/"><span className="me-2 flag-icon flag-icon-us" /> English</Dropdown.Item>
-                            <Dropdown.Item href="/"><span className="me-2 flag-icon flag-icon-my" /> Malay</Dropdown.Item>
-                            <Dropdown.Item href="/"><span className="me-2 flag-icon flag-icon-es" /> Spanish</Dropdown.Item>
-                        </Dropdown.Menu>
-                    </Dropdown>
                 </div>
             </div>
         </div>
