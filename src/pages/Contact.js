@@ -46,7 +46,7 @@ export default function Contact() {
             <Divider />
 
             <GoogleMaps 
-                mapSource="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3989.752292322534!2d32.5869594!3d0.3296293!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177d86d12b8d12eb%3A0xf702e15d47576e84!2sProtea%20Hotel%20by%20Marriott%20Kampala!5e0!3m2!1sen!2sug!4v1647878288345!5m2!1sen!2sug" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy">"
+                mapSource="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3989.752292322534!2d32.5869594!3d0.3296293!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177d86d12b8d12eb%3A0xf702e15d47576e84!2sProtea%20Hotel%20by%20Marriott%20Kampala!5e0!3m2!1sen!2sug!4v1647878288345!5m2!1sen!2sug"
             />
 
             <Footer 
