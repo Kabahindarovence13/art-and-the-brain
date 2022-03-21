@@ -36,7 +36,7 @@ export default function CoolFacts() {
                     <SingleCoolFact 
                         countUpValue="21" 
                         suffix="+" 
-                        title="Team Members"
+                        title="Mentee"
                     />
                     
                     {/* Single Cool Fact */}

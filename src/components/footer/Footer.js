@@ -36,8 +36,8 @@ export default function Footer(props) {
                                 url: "/blog"
                             },
                             {
-                                title: "Team", 
-                                url: "/team"
+                                title: "Mentee", 
+                                url: "/mentee"
                             }
                         ]}
                     />

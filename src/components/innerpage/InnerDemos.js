@@ -159,9 +159,9 @@ export default function InnerDemos() {
                     />
 
                     <SinglePage 
-                        url="/team"
+                        url="/mentee"
                         image="assets/img/demo-img/team.png"
-                        title="Team"
+                        title="Mentee"
                     />
 
                     <SinglePage 

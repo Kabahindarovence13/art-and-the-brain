@@ -1,29 +1,5 @@
 [
     {
-        "id": 1,
-        "memberImage": "assets/img/bg-img/9.jpg",
-        "memberName": "Dr. Patrick Bitature",
-        "designation": "Entrepreneur",
-        "contactUrl": "#",
-        "contactText": "Biography"
-    },
-    {
-        "id": 2,
-        "memberImage": "assets/img/bg-img/16.jpg",
-        "memberName": "Prof. Amanda Tumusiime(PhD)",
-        "designation": "Lecturer, Makerere University",
-        "contactUrl": "#",
-        "contactText": "Biography"
-    },
-    {
-        "id": 3,
-        "memberImage": "assets/img/bg-img/18.jpg",
-        "memberName": "Mrs. Barbara Vanhelleputte",
-        "designation": "Role",
-        "contactUrl": "#",
-        "contactText": "Biography"
-    },
-    {
         "id": 4,
         "memberImage": "assets/img/bg-img/17.jpg",
         "memberName": "Mr. Kayanja Douglas",

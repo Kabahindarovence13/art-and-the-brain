@@ -9,7 +9,7 @@ import SEO from "../components/common/SEO";
 
 export default function AllTeamMembers() {
     const TeamMembersData = TeamData.map((item, index) => (
-        <div key={index} className="col-12 col-sm-6 col-lg-4">
+        <div key={index} className="col-12 col-sm-6 col-lg-6">
             <div className="card team-card shadow">
                 <div className="card-body p-4 py-md-5 text-center">
                     <div className="member-img mb-4 rounded-circle">
@@ -28,7 +28,7 @@ export default function AllTeamMembers() {
 
     return(
         <div>
-            <SEO title="Team Member" />
+            <SEO title="Mentee" />
 
             <Header 
                 brandLogo="assets/img/core-img/logo.png" 
@@ -39,10 +39,10 @@ export default function AllTeamMembers() {
 
             <BreadcrumbOne 
                 breadcrumbImage="assets/img/bg-img/7.jpg" 
-                breadcrumbTitle="Team Members" 
+                breadcrumbTitle="Mentee" 
                 homePageUrl="/" 
                 homePageText="Home" 
-                currentPageText="Team"
+                currentPageText="Mentee"
             />
 
             <Divider />

@@ -8,7 +8,7 @@ export default function SaasboxNav() {
             <Link to="/portfolio" style={{ padding: "20px" }}>Portfolio</Link>
             <Link to="/blog" style={{ padding: "20px" }}>Blog</Link>
             <Link to="/service-standard" style={{ padding: "20px" }}>About me</Link>
-            <Link to="/team" style={{ padding: "20px" }}>Team</Link>
+            <Link to="/mentee" style={{ padding: "20px" }}>Mentee</Link>
             <Link to="/contact" style={{ padding: "20px" }}>Contact</Link>
             <Link to="/reviews" style={{ padding: "20px" }}>Reviews</Link>
         </div>

@@ -88,7 +88,7 @@ export default function App() {
         <Route path="/service-standard" element={<ServiceStandard />} />
         <Route path="/service-creative" element={<ServiceCreative />} />
         
-        <Route path="/team" element={<AllTeamMembers />} />
+        <Route path="/mentee" element={<AllTeamMembers />} />
         {/* <Route path="/pricing-plan" element={<PricingPlan />} /> */}
         <Route path="/faq" element={<FAQ />} />
         <Route path="/contact" element={<Contact />} />
